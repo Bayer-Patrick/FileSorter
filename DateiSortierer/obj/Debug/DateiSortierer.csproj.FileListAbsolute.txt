@@ -1,0 +1,14 @@
+C:\Users\Bayer Patrick\Documents\Htl Krems\3AHIT\SEW\DateiSortierer\DateiSortierer\bin\Debug\DateiSortierer.exe.config
+C:\Users\Bayer Patrick\Documents\Htl Krems\3AHIT\SEW\DateiSortierer\DateiSortierer\bin\Debug\DateiSortierer.exe
+C:\Users\Bayer Patrick\Documents\Htl Krems\3AHIT\SEW\DateiSortierer\DateiSortierer\bin\Debug\DateiSortierer.pdb
+C:\Users\Bayer Patrick\Documents\Htl Krems\3AHIT\SEW\DateiSortierer\DateiSortierer\obj\Debug\DateiSortierer.csprojAssemblyReference.cache
+C:\Users\Bayer Patrick\Documents\Htl Krems\3AHIT\SEW\DateiSortierer\DateiSortierer\obj\Debug\MainWindow.g.cs
+C:\Users\Bayer Patrick\Documents\Htl Krems\3AHIT\SEW\DateiSortierer\DateiSortierer\obj\Debug\App.g.cs
+C:\Users\Bayer Patrick\Documents\Htl Krems\3AHIT\SEW\DateiSortierer\DateiSortierer\obj\Debug\DateiSortierer_MarkupCompile.cache
+C:\Users\Bayer Patrick\Documents\Htl Krems\3AHIT\SEW\DateiSortierer\DateiSortierer\obj\Debug\DateiSortierer_MarkupCompile.lref
+C:\Users\Bayer Patrick\Documents\Htl Krems\3AHIT\SEW\DateiSortierer\DateiSortierer\obj\Debug\MainWindow.baml
+C:\Users\Bayer Patrick\Documents\Htl Krems\3AHIT\SEW\DateiSortierer\DateiSortierer\obj\Debug\DateiSortierer.g.resources
+C:\Users\Bayer Patrick\Documents\Htl Krems\3AHIT\SEW\DateiSortierer\DateiSortierer\obj\Debug\DateiSortierer.Properties.Resources.resources
+C:\Users\Bayer Patrick\Documents\Htl Krems\3AHIT\SEW\DateiSortierer\DateiSortierer\obj\Debug\DateiSortierer.csproj.GenerateResource.cache
+C:\Users\Bayer Patrick\Documents\Htl Krems\3AHIT\SEW\DateiSortierer\DateiSortierer\obj\Debug\DateiSortierer.exe
+C:\Users\Bayer Patrick\Documents\Htl Krems\3AHIT\SEW\DateiSortierer\DateiSortierer\obj\Debug\DateiSortierer.pdb
