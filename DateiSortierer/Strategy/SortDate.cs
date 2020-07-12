@@ -53,7 +53,7 @@ namespace DateiSortierer.Strategy
                         if (!File.Exists(fullFinishPath))
                         {
                             File.Copy(s, fullFinishPath);
-                            return;
+                            break;
                         }
                         count++;
                     }
