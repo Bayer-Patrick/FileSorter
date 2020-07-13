@@ -7,14 +7,14 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="Sortieren" HorizontalAlignment="Left" Margin="330,322,0,0" VerticalAlignment="Top" Width="75" Click="Sort_Click"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="388,153,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Name="Source"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="388,213,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Name="Target"/>
-        <Label Content="Pfad:" HorizontalAlignment="Left" Margin="240,150,0,0" VerticalAlignment="Top"/>
-        <Label Content="Ziel:" HorizontalAlignment="Left" Margin="240,209,0,0" VerticalAlignment="Top"/>
-        <ComboBox SelectedValuePath="Name" HorizontalAlignment="Left" Margin="125,322,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBox_SelectionChanged" Name="ddSort">
-            <ComboBoxItem IsSelected="true" Name="Sort1">Sortieren 1</ComboBoxItem>
-            <ComboBoxItem Name="Sort2">Sortieren 2</ComboBoxItem>
+        <Button Content="Sortieren" HorizontalAlignment="Left" Margin="402,294,0,0" VerticalAlignment="Top" Width="215" Click="Sort_Click" Height="35" FontSize="20"/>
+        <TextBox HorizontalAlignment="Left" Height="42" Margin="242,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="375" Name="Source" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Height="42" Margin="242,194,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="375" Name="Target"/>
+        <Label Content="Pfad:" HorizontalAlignment="Left" Margin="125,120,0,0" VerticalAlignment="Top" Background="Transparent" FontSize="24"/>
+        <Label Content="Ziel:" HorizontalAlignment="Left" Margin="125,194,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <ComboBox SelectedValuePath="Name" HorizontalAlignment="Left" Margin="242,294,0,0" VerticalAlignment="Top" Width="130" SelectionChanged="ComboBox_SelectionChanged" Name="ddSort" Height="35" FontSize="20">
+            <ComboBoxItem IsSelected="true" Name="SortDate">SortDate</ComboBoxItem>
+            <ComboBoxItem Name="SortName">SortName</ComboBoxItem>
         </ComboBox>
 
     </Grid>

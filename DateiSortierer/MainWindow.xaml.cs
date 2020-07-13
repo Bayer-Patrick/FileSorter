@@ -49,8 +49,8 @@ namespace DateiSortierer
 
                     switch (ddSort.SelectedValue)
                     {
-                        case "Sort1": sm.SortMethode = new SortDate(); break;
-                        case "Sort2": sm.SortMethode = new SortName(); break;
+                        case "SortDate": sm.SortMethode = new SortDate(); break;
+                        case "SortName": sm.SortMethode = new SortName(); break;
                     }
                     sm.Sort(source, target);
                 }
