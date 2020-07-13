@@ -17,7 +17,7 @@ namespace DateiSortierer.Strategy
 
             foreach (string s in files)
             {
-                string creationTime = Convert.ToString(File.GetCreationTime(s)).Replace(':','-');
+                string creationTime = File.GetCreationTime(s).ToString("yyyy/MM/dd HH-mm-ss");
                 int start = s.LastIndexOf('.');
                 int lengthOfFileType = s.Length - start;
                 string fileType = s.Substring(start, lengthOfFileType);
